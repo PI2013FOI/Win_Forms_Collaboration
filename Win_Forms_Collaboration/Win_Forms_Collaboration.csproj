@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Win_Forms_Collaboration</RootNamespace>
     <AssemblyName>Win_Forms_Collaboration</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -44,6 +45,120 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FrmIzracun_Student01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student01.Designer.cs">
+      <DependentUpon>FrmIzracun_Student01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student02.Designer.cs">
+      <DependentUpon>FrmIzracun_Student02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student03.Designer.cs">
+      <DependentUpon>FrmIzracun_Student03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student04.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student04.Designer.cs">
+      <DependentUpon>FrmIzracun_Student04.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student05.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student05.Designer.cs">
+      <DependentUpon>FrmIzracun_Student05.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student06.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student06.Designer.cs">
+      <DependentUpon>FrmIzracun_Student06.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student07.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student07.Designer.cs">
+      <DependentUpon>FrmIzracun_Student07.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student09.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student09.Designer.cs">
+      <DependentUpon>FrmIzracun_Student09.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student10.Designer.cs">
+      <DependentUpon>FrmIzracun_Student10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student11.Designer.cs">
+      <DependentUpon>FrmIzracun_Student11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student12.Designer.cs">
+      <DependentUpon>FrmIzracun_Student12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student13.Designer.cs">
+      <DependentUpon>FrmIzracun_Student13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student14.Designer.cs">
+      <DependentUpon>FrmIzracun_Student14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student15.Designer.cs">
+      <DependentUpon>FrmIzracun_Student15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student16.Designer.cs">
+      <DependentUpon>FrmIzracun_Student16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student17.Designer.cs">
+      <DependentUpon>FrmIzracun_Student17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student18.Designer.cs">
+      <DependentUpon>FrmIzracun_Student18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student19.Designer.cs">
+      <DependentUpon>FrmIzracun_Student19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzracun_Student20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzracun_Student20.Designer.cs">
+      <DependentUpon>FrmIzracun_Student20.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmPocetna.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,6 +178,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
