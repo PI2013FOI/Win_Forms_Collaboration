@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win_Forms_Collaboration", "Win_Forms_Collaboration\Win_Forms_Collaboration.csproj", "{349C18DB-A1C9-4EC7-8BFD-7DA9EEE0C0EB}"
 EndProject
 Global
