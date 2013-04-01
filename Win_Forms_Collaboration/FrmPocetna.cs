@@ -19,8 +19,7 @@ namespace Win_Forms_Collaboration
 
         private void btnStudent1_Click(object sender, EventArgs e)
         {
-            FrmIzracun_Student01 form = new FrmIzracun_Student01();
-            form.ShowDialog();
+
         }
 
         private void btnStudent2_Click(object sender, EventArgs e)
